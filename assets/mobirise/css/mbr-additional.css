@@ -713,10 +713,20 @@ section.lazy-placeholder:after {
 .cid-rZsCLvYb5t {
   padding-top: 135px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rZsCLvYb5t P {
   color: #767676;
+}
+.cid-rZsCLvYb5t H1 {
+  color: #86fdcd;
+}
+.cid-rZsCLvYb5t H3 {
+  color: #86fdcd;
+}
+.cid-rZsCLvYb5t .mbr-text,
+.cid-rZsCLvYb5t .mbr-section-btn {
+  color: #86fdcd;
 }
 .cid-rZrnWEyUBR {
   padding-top: 30px;
