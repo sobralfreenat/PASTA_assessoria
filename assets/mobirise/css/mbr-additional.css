@@ -1512,3 +1512,15 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rZvBlXe2MO {
+  background: #232323;
+}
+.cid-rZvBlXe2MO .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rZvBlXe2MO .video-block {
+    width: 100% !important;
+  }
+}
