@@ -1541,18 +1541,6 @@ section.lazy-placeholder:after {
 .cid-rZs2qZb9nD .card-title {
   text-align: center;
 }
-.cid-rZvafwzq1N {
-  background: #232323;
-}
-.cid-rZvafwzq1N .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rZvafwzq1N .video-block {
-    width: 100% !important;
-  }
-}
 .cid-s01sJA2EN7 {
   background: #ffffff;
 }
@@ -1562,6 +1550,18 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 768px) {
   .cid-s01sJA2EN7 .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rZvafwzq1N {
+  background: #232323;
+}
+.cid-rZvafwzq1N .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rZvafwzq1N .video-block {
     width: 100% !important;
   }
 }
