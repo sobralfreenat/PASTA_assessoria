@@ -1656,6 +1656,50 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s2QGTWWc1i {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #02171e;
+}
+.cid-s2QGTWWc1i .card-box {
+  padding: 0 2rem;
+}
+.cid-s2QGTWWc1i .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-s2QGTWWc1i .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-s2QGTWWc1i h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s2QGTWWc1i p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-s2QGTWWc1i .mbr-text {
+  color: #767676;
+}
+.cid-s2QGTWWc1i .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #02171e;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s2QGTWWc1i .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-s2QGTWWc1i .card-title {
+  text-align: center;
+  color: #30af7c;
+}
 .cid-s1FFsLXkmV {
   padding-top: 135px;
   padding-bottom: 135px;
